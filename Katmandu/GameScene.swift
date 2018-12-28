@@ -12,6 +12,7 @@ import GameplayKit
 class GameScene: SKScene {
     
 
+    let Player: SKNode?
     
     override func sceneDidLoad() {
 
